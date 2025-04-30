@@ -1,3 +1,6 @@
+## Note to Reviewers
+This project was developed under tight constraints (VRChat UdonSharp and networking limitations) and does not reflect my current code quality standards. For more representative examples of my work, please see my pinned repositories or visit my [portfolio](https://studioviolet.net/).
+
 ![VRCSubtitle](https://user-images.githubusercontent.com/28989460/183273832-bc709af2-5183-4966-8746-da98625ed422.png)
 #### VRCSubtitle is a system that allows users to quickly and easily add subtitles to their projects! Designed to be performant and modular, it supports a variety of different subtitle types and usecases!
 
